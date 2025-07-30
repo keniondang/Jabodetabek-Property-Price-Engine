@@ -1,9 +1,6 @@
-# PropertiAI: End-to-End Property Price Prediction Engine
+#  End-to-End Property Price Prediction Engine
 
-PropertiAI is a complete data science application that scrapes real estate data, cleans it using a robust set of logical rules, and trains a machine learning model to predict property prices. The entire workflow is managed through an interactive web application built with Streamlit.
-
-![App Screenshot](https://i.imgur.com/your-screenshot-url.png)
-*(**Note:** You should take a screenshot of your running Streamlit app and replace the URL above to showcase your project)*
+A complete data science application that scrapes real estate data, cleans it using a robust set of logical rules, and trains a machine learning model to predict property prices. The entire workflow is managed through an interactive web application built with Streamlit.
 
 ---
 
